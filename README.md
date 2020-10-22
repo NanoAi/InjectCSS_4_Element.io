@@ -1,5 +1,5 @@
 # InjectCSS 4 Element.io
-Inject CSS into your Element.io Node App! (This repacks webapp.asar)
+Inject CSS into your Element.io Electron App! (This repacks webapp.asar)
 
 # Requirements
 ### Windows
