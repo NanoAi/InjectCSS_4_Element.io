@@ -1,6 +1,15 @@
 # InjectCSS 4 Element.io
 Inject CSS into your Element.io Node App! (This repacks webapp.asar)
 
+# Requirements
+## Windows
+If you're on Windows you'll need MINGW to be able to install this!
+## asar
+This uses `asar` from the command line install it with either...
+- NPM: `npm install -g asar`
+- OR
+- YARN: `yarn global add asar`
+
 # How To
 1. Make sure you do not have any Element.io instances open, or any Element.io files being accessed.
 2. Download this repo as a zip.
