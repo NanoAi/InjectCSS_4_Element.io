@@ -18,3 +18,14 @@ First off I'm not responsible if this bricks your install, deletes your importan
 
 
 Secound, This is my first time ever injecting CSS into an Electron app so I'm all ears if there's a better way or if I should've done something differently. You'd probably have to rerun this whenever Element.io updates but that's not that bad right?
+
+# License TLDR
+### GNU General Public License v3 (GPL-3) [[tldrlegal]](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3))
+| ✔️ Can | ❌ Cannot | ⚠️ Must |
+|:-:|:-:|:-:|
+| Commercial Use | Sublicense | Include Original |
+| Modify | Hold Liable | State Changes |
+| Distribute |  | Disclose Source |
+| Place Warranty |  | Include License |
+| Use Patent Claims |  | Include Copyright |
+|  |  | Include Install Instructions |
